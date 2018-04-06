@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+tags
+benchmark
+gurobi.log
+model.lp
